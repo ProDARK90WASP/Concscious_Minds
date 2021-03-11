@@ -44,3 +44,6 @@ input {
 	border: 1px solid #999999;
 	box-shadow: 1px 1px #cccccc;
 }
+body{
+	background-color: orangered;
+}
